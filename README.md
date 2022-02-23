@@ -1,1 +1,1 @@
-# flutter_auth0_getx_impl
+# Auth0 Flutter implementation
